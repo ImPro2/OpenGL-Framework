@@ -1,0 +1,12 @@
+# Unwanted binaries
+bin/
+bin-int/
+**.ilk
+**.pdb
+
+# Visual Studio Files
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
